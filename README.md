@@ -57,5 +57,5 @@ It has been deployed on **Power BI Report Server** for convenient sharing and ac
 ## 📣 Author
 
 - **Your Name**
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/sohail-ali-8b626128a)
+- [GitHub](https://github.com/asohail20a)
