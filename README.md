@@ -50,7 +50,7 @@ It has been deployed on **Power BI Report Server** for convenient sharing and ac
 
 - **Mobile Layout** Overview
   
-![Facebook Dashboard](Mobile Layout1.png)
+![Facebook Dashboard](MobileLayout1.png)  ![Facebook Dashboard](MobileLayout2.png)
 
 ---
 
