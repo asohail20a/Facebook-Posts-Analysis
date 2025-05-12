@@ -46,11 +46,11 @@ It has been deployed on **Power BI Report Server** for convenient sharing and ac
 
 ---
 
-## 🔗 Deployment
+## 🔗 Mobile Layout
 
-- The dashboard is published on **Power BI Report Server**
+- **Mobile Layout** Overview
   
-![Facebook Dashboard](ReportServer.png)
+![Facebook Dashboard](Mobile Layout1.png)
 
 ---
 
