@@ -33,7 +33,7 @@ It has been deployed on **Power BI Report Server** for convenient sharing and ac
 
 ## 🖼 Dashboard Preview
 
-![Facebook Dashboard](images/Dashboard.png)
+![Facebook Dashboard](Dashboard.png)
 
 ---
 
@@ -50,12 +50,12 @@ It has been deployed on **Power BI Report Server** for convenient sharing and ac
 
 - The dashboard is published on **Power BI Report Server**
   
-![Facebook Dashboard](images/ReportServer.png)
+![Facebook Dashboard](ReportServer.png)
 
 ---
 
 ## 📣 Author
 
-- **Your Name**
+- **Sohail Ali**
 - [LinkedIn](https://linkedin.com/in/sohail-ali-8b626128a)
 - [GitHub](https://github.com/asohail20a)
